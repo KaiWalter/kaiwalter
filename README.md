@@ -21,3 +21,7 @@ These are things I figured out or contributed to:
 	<a href="https://www.linkedin.com/in/kaiwalter/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://stackoverflow.com/users/4947644/kai-walter"><img src="https://img.shields.io/badge/Stack Overflow--_.svg?style=social&logo=stackoverflow" alt="Stack Overflow"></a>
 </p>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaiwalter)](https://github.com/ryo-ma/github-profile-trophy)
