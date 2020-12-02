@@ -4,8 +4,10 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 
 These are things I figured out or contributed to:
 
-- [Simple approach to run and debug multiple .NET Dapr projects (w/o Docker)<img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="dev.to">](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
+
 - [Using Azure private links and private DNS zones with globally distributed resources <img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">](https://ancientitguy.medium.com/using-azure-private-links-and-private-dns-zones-with-globally-distributed-resources-2c9e53b03250)
+- [Handling an ACME challenge response with a temporary Azure Container Instance <img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">](https://ancientitguy.medium.com/handling-an-acme-challenge-response-with-a-temporary-azure-container-instance-5614acf0e425)
+- [Simple approach to run and debug multiple .NET Dapr projects (w/o Docker)<img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="dev.to">](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
 - [Getting started with access lifecycle on Azure Resources with PowerShell <img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="dev.to">](https://dev.to/kaiwalter/getting-started-with-access-lifecycle-on-azure-resources-with-powershell-2988)
 - [Microsoft Build 2019 talk on running mission critical workloads on Windows Containers inside Service Fabric<br/><img src="https://img.shields.io/youtube/views/sU52ULgX7YU" alt="Build Mission Critical .NET microservices - BRK3047">](https://www.youtube.com/watch?v=sU52ULgX7YU&t=2058)
 - [Azure Functions on Service Fabric <img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="dev.to">](https://dev.to/kaiwalter/azure-functions-on-service-fabric-40n8)
