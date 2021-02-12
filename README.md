@@ -16,6 +16,13 @@ These are things I figured out or contributed to:
 
 ---
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <p align="center">
 	<a href="https://github.com/kaiwalter"><img src="https://img.shields.io/github/followers/kaiwalter.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/ancientitguy"><img src="https://img.shields.io/twitter/follow/ancientitguy?label=Twitter&style=social" alt="Twitter"></a>
