@@ -7,7 +7,7 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 <!-- BLOG-POST-LIST:START -->
 - [download Windows Store apps with PowerShell over https://store.rg-adguard.net/](https://dev.to/kaiwalter/download-windows-store-apps-with-powershell-from-https-store-rg-adguard-net-155m)
 - [Handling an ACME challenge response with a temporary Azure Container Instance](https://dev.to/kaiwalter/handling-an-acme-challenge-response-with-a-temporary-azure-container-instance-3ae0)
-- [Simple approach to run and debug multiple .NET Dapr projects (w/o Docker)](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
+- [Simple approach to run and debug multiple .NET Dapr projects &lpar;w/o Docker&rpar;](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
 - [Aw, snap - refresh web app in Chromium kiosk mode after it breaks](https://dev.to/kaiwalter/aw-snap-refresh-web-app-in-chromium-kiosk-mode-after-it-breaks-1p4a)
 - [Migrate principalNames for user accounts in Azure DevOps](https://dev.to/kaiwalter/migrate-principalnames-for-user-accounts-in-azure-devops-18pe)
 <!-- BLOG-POST-LIST:END -->
