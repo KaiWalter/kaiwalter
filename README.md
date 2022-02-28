@@ -10,6 +10,11 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 - [Creating a Certificate Authority for testing with Azure Container Instances](https://dev.to/kaiwalter/creating-a-certificate-authority-for-testing-with-azure-container-instances-5bnp)
 - [Preliminary private linking an Azure Container App Environment](https://dev.to/kaiwalter/preliminary-private-linking-an-azure-container-app-environment-3cnf)
 - [Test Azure Functions scaling on Container Apps with Azure Load Testing](https://dev.to/kaiwalter/test-azure-functions-scaling-on-container-apps-with-azure-load-testing-2nlp)
+- [Create an automatic Outlook calendar blocker with Azure Logic Apps and Azure Functions](https://dev.to/kaiwalter/create-an-automatic-outlook-calendar-blocker-with-azure-logic-apps-and-azure-functions-3ee4)
+- [download Windows Store apps with PowerShell over https://store.rg-adguard.net/](https://dev.to/kaiwalter/download-windows-store-apps-with-powershell-from-https-store-rg-adguard-net-155m)
+- [Handling an ACME challenge response with a temporary Azure Container Instance](https://dev.to/kaiwalter/handling-an-acme-challenge-response-with-a-temporary-azure-container-instance-3ae0)
+- [Simple approach to run and debug multiple .NET Dapr projects &lpar;w/o Docker&rpar;](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
+- [Aw, snap - refresh web app in Chromium kiosk mode after it breaks](https://dev.to/kaiwalter/aw-snap-refresh-web-app-in-chromium-kiosk-mode-after-it-breaks-1p4a)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💤 Archive
