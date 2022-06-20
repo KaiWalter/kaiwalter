@@ -17,6 +17,12 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 - [Simple approach to run and debug multiple .NET Dapr projects &lpar;w/o Docker&rpar;](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
 <!-- BLOG-POST-LIST:END -->
 
+## 📹 On Stage
+
+- [Dapr Adopters Panel Oct 2021](https://www.youtube.com/watch?v=Jyug0wnfsug)
+- [Microsoft Build May 2019 - Windows Containers on Service Fabric](https://youtu.be/sU52ULgX7YU?t=2058)
+- [Microsoft Ignite Sep 2018 - API Management with peace of mind](https://youtu.be/BoZimCedfq8?t=1317)
+
 ## 💤 Archive
 
 - [Using Azure private links and private DNS zones with globally distributed resources <img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">](https://ancientitguy.medium.com/using-azure-private-links-and-private-dns-zones-with-globally-distributed-resources-2c9e53b03250)
