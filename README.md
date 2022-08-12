@@ -20,6 +20,7 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 ## 📹 On Stage
 
 - [Dapr Adopters Panel Oct 2021](https://www.youtube.com/watch?v=Jyug0wnfsug)
+- Dapr customer testimonal [as part of Inside Azure Datacenter Architecture with Mark Russinovich](https://youtu.be/69PrhWQorEM?t=3986)
 - [Microsoft Build May 2019 - Windows Containers on Service Fabric](https://youtu.be/sU52ULgX7YU?t=2058)
 - [Microsoft Ignite Sep 2018 - API Management with peace of mind](https://youtu.be/BoZimCedfq8?t=1317)
 
