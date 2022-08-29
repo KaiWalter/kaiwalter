@@ -5,6 +5,7 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Rust Toolchain management with cloud-init on an Linux Azure VM](https://dev.to/kaiwalter/install-rust-toolchain-management-with-cloud-init-on-an-linux-azure-vm-2o51)
 - [Private linking resources from inside an Azure VM to multiple regional networks](https://dev.to/kaiwalter/private-linking-from-inside-an-azure-vm-to-multiple-regional-networks-4gdh)
 - [Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
 - [Use Azure Application Gateway private link configuration for an internal API Management](https://dev.to/kaiwalter/use-azure-application-gateway-private-link-configuration-for-an-internal-api-management-1d6o)
@@ -14,7 +15,6 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 - [Create an automatic Outlook calendar blocker with Azure Logic Apps and Azure Functions](https://dev.to/kaiwalter/create-an-automatic-outlook-calendar-blocker-with-azure-logic-apps-and-azure-functions-3ee4)
 - [download Windows Store apps with PowerShell over https://store.rg-adguard.net/](https://dev.to/kaiwalter/download-windows-store-apps-with-powershell-from-https-store-rg-adguard-net-155m)
 - [Handling an ACME challenge response with a temporary Azure Container Instance](https://dev.to/kaiwalter/handling-an-acme-challenge-response-with-a-temporary-azure-container-instance-3ae0)
-- [Simple approach to run and debug multiple .NET Dapr projects &lpar;w/o Docker&rpar;](https://dev.to/kaiwalter/simple-approach-to-run-and-debug-multiple-net-dapr-projects-w-o-docker-289k)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
