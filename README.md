@@ -19,6 +19,7 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 
 ## 📹 On Stage
 
+- [Dapr Developer Day China September 2022 -  Why we used Dapr](https://www.bilibili.com/video/BV1LD4y1z7s6?spm_id_from=333.999.0.0)
 - [Microsoft Build May 2022 - Deploy modern containerized apps and cloud native databases at scale](https://youtu.be/uyJfKkjIJ4Y?t=1388)
 - [Dapr Adopters Panel Oct 2021](https://www.youtube.com/watch?v=Jyug0wnfsug)
 - Dapr customer testimonal [as part of Inside Azure Datacenter Architecture with Mark Russinovich](https://youtu.be/69PrhWQorEM?t=3986)
