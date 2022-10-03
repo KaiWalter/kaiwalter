@@ -5,6 +5,7 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running and Conserving Azure PowerShell in Azure Container Instances](https://dev.to/kaiwalter/running-and-conserving-azure-powershell-in-azure-container-instances-a1a)
 - [Manage SSH config entries with a PowerShell module](https://dev.to/kaiwalter/manage-ssh-config-entries-with-a-powershell-module-77b)
 - [Install Rust Toolchain management with cloud-init on an Linux Azure VM](https://dev.to/kaiwalter/install-rust-toolchain-management-with-cloud-init-on-an-linux-azure-vm-2o51)
 - [Private linking resources from inside an Azure VM to multiple regional networks](https://dev.to/kaiwalter/private-linking-from-inside-an-azure-vm-to-multiple-regional-networks-4gdh)
@@ -14,7 +15,6 @@ Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments
 - [Private linking an Azure Container App Environment](https://dev.to/kaiwalter/preliminary-private-linking-an-azure-container-app-environment-3cnf)
 - [Test Azure Functions scaling on Container Apps with Azure Load Testing](https://dev.to/kaiwalter/test-azure-functions-scaling-on-container-apps-with-azure-load-testing-2nlp)
 - [Create an automatic Outlook calendar blocker with Azure Logic Apps and Azure Functions](https://dev.to/kaiwalter/create-an-automatic-outlook-calendar-blocker-with-azure-logic-apps-and-azure-functions-3ee4)
-- [download Windows Store apps with PowerShell over https://store.rg-adguard.net/](https://dev.to/kaiwalter/download-windows-store-apps-with-powershell-from-https-store-rg-adguard-net-155m)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
