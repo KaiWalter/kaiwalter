@@ -1,6 +1,9 @@
 ![One of the spots I take a deep breath and just ... exist](https://res.cloudinary.com/practicaldev/image/fetch/s--E3J7Qj_I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/r5etlmwo8yqfxk475uvi.JPG)
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/kaiwalter/count.svg" />
+</p>
 
-Hi, I'm Kai! I work as a solution architect in enterprise and cloud environments. The past years I've been focusing on bringing enterprise workloads with a PaaS-first approach into Azure cloud.
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kai! I work as a solution architect in enterprise and cloud environments. The past years I've been focusing on bringing enterprise workloads with a PaaS-first approach into Azure cloud. To unwind I figure out tooling and cloud infrastructure challenges:
 
 ## 📕 Latest Blog Posts
 
