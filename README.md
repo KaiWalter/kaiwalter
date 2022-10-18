@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a disposable Azure VM based on CBL-Mariner](https://dev.to/kaiwalter/create-a-disposable-azure-vm-based-on-cbl-mariner-2013)
 - [Running and Conserving Azure PowerShell in Azure Container Instances](https://dev.to/kaiwalter/running-and-conserving-azure-powershell-in-azure-container-instances-a1a)
 - [Manage SSH config entries with a PowerShell module](https://dev.to/kaiwalter/manage-ssh-config-entries-with-a-powershell-module-77b)
 - [Install Rust Toolchain management with cloud-init on an Linux Azure VM](https://dev.to/kaiwalter/install-rust-toolchain-management-with-cloud-init-on-an-linux-azure-vm-2o51)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Creating a Certificate Authority for testing with Azure Container Instances](https://dev.to/kaiwalter/creating-a-certificate-authority-for-testing-with-azure-container-instances-5bnp)
 - [Private linking an Azure Container App Environment](https://dev.to/kaiwalter/preliminary-private-linking-an-azure-container-app-environment-3cnf)
 - [Test Azure Functions scaling on Container Apps with Azure Load Testing](https://dev.to/kaiwalter/test-azure-functions-scaling-on-container-apps-with-azure-load-testing-2nlp)
-- [Create an automatic Outlook calendar blocker with Azure Logic Apps and Azure Functions](https://dev.to/kaiwalter/create-an-automatic-outlook-calendar-blocker-with-azure-logic-apps-and-azure-functions-3ee4)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
