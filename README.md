@@ -44,6 +44,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 	<a href="https://dev.to/kaiwalter"><img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="dev.to"></a>
 	<a href="https://www.linkedin.com/in/kaiwalter/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://stackoverflow.com/users/4947644/kai-walter"><img src="https://img.shields.io/badge/Stack Overflow--_.svg?style=social&logo=stackoverflow" alt="Stack Overflow"></a>
+	<a rel="me" href="https://dotnet.social/@ancientitguy"><img src="https://img.shields.io/mastodon/follow/109415491460751701?domain=https%3A%2F%2Ftechhub.social%2F&label=%40techhub.social&style=social" alt="Mastodon DotNet"></a>
+	<a rel="me" href="https://techhub.social/@ancientITguy"><img src="https://img.shields.io/mastodon/follow/109415491460751701?domain=https%3A%2F%2Ftechhub.social&style=social" alt="Mastodon TechHub"></a>
 </p>
 
 ---
