@@ -32,13 +32,14 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ## How do I stay up-to-date?
 
-I listen to or watch these shows to stay up-to-date in technology and context surronding technology. Ordered by frequency I manage to follow closely on newest eposides.
+I listen to or watch these shows or follow these posts to stay up-to-date in technology and context surronding technology. Ordered by frequency I manage to follow closely on newest eposides.
 
 ### for my main technological focus **Azure**
 
+- [John Savill's Azure Infrastructure Weekly Update](https://www.youtube.com/watch?v=cIuiH9EnFfE&list=PLlVtbbG169nEv7jSfOVmQGRp9wAoAM0Ks)
+- [myNewsWrap - SAP and Microsoft by Christian Lechner](https://dev.to/lechnerc77)
 - [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/)
 - [Azure Friday on Microsoft Azure YouTube Channel](https://www.youtube.com/watch?v=XQTQz-MgEBA&list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
-- [John Savill's Azure Infrastructure Weekly Update](https://www.youtube.com/watch?v=cIuiH9EnFfE&list=PLlVtbbG169nEv7jSfOVmQGRp9wAoAM0Ks)
 - [The Azure Podcast](https://azpodcast.azurewebsites.net/)
 
 ### **outside the bubble** - not only Azure, not only pure technology
