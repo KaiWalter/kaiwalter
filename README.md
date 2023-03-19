@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate VS Code extensions setup across profiles](https://dev.to/kaiwalter/automate-vs-code-extensions-setup-across-profiles-4bc2)
 - [Create a disposable Azure VM based on CBL-Mariner](https://dev.to/kaiwalter/create-a-disposable-azure-vm-based-on-cbl-mariner-2013)
 - [Running and Conserving Azure PowerShell in Azure Container Instances](https://dev.to/kaiwalter/running-and-conserving-azure-powershell-in-azure-container-instances-a1a)
 - [Manage SSH config entries with a PowerShell module](https://dev.to/kaiwalter/manage-ssh-config-entries-with-a-powershell-module-77b)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Use Azure Application Gateway private link configuration for an internal API Management](https://dev.to/kaiwalter/use-azure-application-gateway-private-link-configuration-for-an-internal-api-management-1d6o)
 - [Creating a Certificate Authority for testing with Azure Container Instances](https://dev.to/kaiwalter/creating-a-certificate-authority-for-testing-with-azure-container-instances-5bnp)
 - [Private linking an Azure Container App Environment](https://dev.to/kaiwalter/preliminary-private-linking-an-azure-container-app-environment-3cnf)
-- [Test Azure Functions scaling on Container Apps with Azure Load Testing](https://dev.to/kaiwalter/test-azure-functions-scaling-on-container-apps-with-azure-load-testing-2nlp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
