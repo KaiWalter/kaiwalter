@@ -51,6 +51,11 @@ I listen to or watch these shows or follow these posts to stay up-to-date in tec
 - [Security This Week Podcast](https://securitythisweek.com/)
 - [Sudo Show Podcast](https://sudo.show/)
 
+## How do I reflect on my work or how would I like to shape my work?
+
+- [The talks of Gregor Hohpe resonate very well with me and how I see my role when taking on the **Enterprise Architect** hat](https://www.youtube.com/playlist?list=PLsuboX68NN3DL-sYP16NRyaLFRvSexa_s)
+- also Scott Hanselman's point of view on [personal productivity - 2020](https://youtu.be/RpH6IPhyh7I) and [- 2012](https://youtu.be/RpH6IPhyh7I) has elements I strive for
+
 ## 💤 Archive
 
 - [Using Azure private links and private DNS zones with globally distributed resources <img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">](https://ancientitguy.medium.com/using-azure-private-links-and-private-dns-zones-with-globally-distributed-resources-2c9e53b03250)
