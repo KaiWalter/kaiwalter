@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private linking an Azure Container App Environment &lpar;May&#39;23 update&rpar;](https://dev.to/kaiwalter/private-linking-an-azure-container-app-environment-may23-update-47f8)
 - [Private linking and port forwarding to non-Azure resources](https://dev.to/kaiwalter/private-linking-and-port-forwarding-to-non-azure-resources-5h0f)
 - [Automate VS Code extensions setup across profiles](https://dev.to/kaiwalter/automate-vs-code-extensions-setup-across-profiles-4bc2)
 - [Create a disposable Azure VM based on CBL-Mariner](https://dev.to/kaiwalter/create-a-disposable-azure-vm-based-on-cbl-mariner-2013)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Private linking resources from inside an Azure VM to multiple regional networks](https://dev.to/kaiwalter/private-linking-from-inside-an-azure-vm-to-multiple-regional-networks-4gdh)
 - [Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
 - [Use Azure Application Gateway private link configuration for an internal API Management](https://dev.to/kaiwalter/use-azure-application-gateway-private-link-configuration-for-an-internal-api-management-1d6o)
-- [Creating a Certificate Authority for testing with Azure Container Instances](https://dev.to/kaiwalter/creating-a-certificate-authority-for-testing-with-azure-container-instances-5bnp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
