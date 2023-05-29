@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Share NeoVim configuration between Linux and Windows](https://dev.to/kaiwalter/share-neovim-configuration-between-linux-and-windows-4gh8)
 - [Private linking an Azure Container App Environment &lpar;May&#39;23 update&rpar;](https://dev.to/kaiwalter/private-linking-an-azure-container-app-environment-may23-update-47f8)
 - [Private linking and port forwarding to non-Azure resources](https://dev.to/kaiwalter/private-linking-and-port-forwarding-to-non-azure-resources-5h0f)
 - [Automate VS Code extensions setup across profiles](https://dev.to/kaiwalter/automate-vs-code-extensions-setup-across-profiles-4bc2)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Install Rust Toolchain management with cloud-init on an Linux Azure VM](https://dev.to/kaiwalter/install-rust-toolchain-management-with-cloud-init-on-an-linux-azure-vm-2o51)
 - [Private linking resources from inside an Azure VM to multiple regional networks](https://dev.to/kaiwalter/private-linking-from-inside-an-azure-vm-to-multiple-regional-networks-4gdh)
 - [Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
-- [Use Azure Application Gateway private link configuration for an internal API Management](https://dev.to/kaiwalter/use-azure-application-gateway-private-link-configuration-for-an-internal-api-management-1d6o)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
