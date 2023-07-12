@@ -8,16 +8,16 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Share NeoVim configuration between Linux and Windows](https://dev.to/kaiwalter/share-neovim-configuration-between-linux-and-windows-4gh8)
+- [Private linking an Azure Container App Environment &lpar;May&#39;23 update&rpar;](https://dev.to/kaiwalter/private-linking-an-azure-container-app-environment-may23-update-47f8)
+- [Private linking and port forwarding to non-Azure resources](https://dev.to/kaiwalter/private-linking-and-port-forwarding-to-non-azure-resources-5h0f)
+- [Automate VS Code extensions setup across profiles](https://dev.to/kaiwalter/automate-vs-code-extensions-setup-across-profiles-4bc2)
 - [Create a disposable Azure VM based on CBL-Mariner](https://dev.to/kaiwalter/create-a-disposable-azure-vm-based-on-cbl-mariner-2013)
 - [Running and Conserving Azure PowerShell in Azure Container Instances](https://dev.to/kaiwalter/running-and-conserving-azure-powershell-in-azure-container-instances-a1a)
 - [Manage SSH config entries with a PowerShell module](https://dev.to/kaiwalter/manage-ssh-config-entries-with-a-powershell-module-77b)
 - [Install Rust Toolchain management with cloud-init on an Linux Azure VM](https://dev.to/kaiwalter/install-rust-toolchain-management-with-cloud-init-on-an-linux-azure-vm-2o51)
 - [Private linking resources from inside an Azure VM to multiple regional networks](https://dev.to/kaiwalter/private-linking-from-inside-an-azure-vm-to-multiple-regional-networks-4gdh)
 - [Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
-- [Use Azure Application Gateway private link configuration for an internal API Management](https://dev.to/kaiwalter/use-azure-application-gateway-private-link-configuration-for-an-internal-api-management-1d6o)
-- [Creating a Certificate Authority for testing with Azure Container Instances](https://dev.to/kaiwalter/creating-a-certificate-authority-for-testing-with-azure-container-instances-5bnp)
-- [Private linking an Azure Container App Environment](https://dev.to/kaiwalter/preliminary-private-linking-an-azure-container-app-environment-3cnf)
-- [Test Azure Functions scaling on Container Apps with Azure Load Testing](https://dev.to/kaiwalter/test-azure-functions-scaling-on-container-apps-with-azure-load-testing-2nlp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
@@ -29,6 +29,32 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - Dapr customer testimonal [as part of Inside Azure Datacenter Architecture with Mark Russinovich](https://youtu.be/69PrhWQorEM?t=3986)
 - [Microsoft Build May 2019 - Windows Containers on Service Fabric](https://youtu.be/sU52ULgX7YU?t=2058)
 - [Microsoft Ignite Sep 2018 - API Management with peace of mind](https://youtu.be/BoZimCedfq8?t=1317)
+
+## How do I stay up-to-date?
+
+I listen to or watch these shows or follow these posts to stay up-to-date in technology and context surronding technology. Ordered by frequency I manage to follow closely on newest eposides.
+
+### for my main technological focus **Azure**
+
+- [John Savill's Azure Infrastructure Weekly Update](https://www.youtube.com/watch?v=cIuiH9EnFfE&list=PLlVtbbG169nEv7jSfOVmQGRp9wAoAM0Ks)
+- [myNewsWrap - SAP and Microsoft by Christian Lechner](https://dev.to/lechnerc77)
+- [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/)
+- [Azure Friday on Microsoft Azure YouTube Channel](https://www.youtube.com/watch?v=XQTQz-MgEBA&list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
+- [The Azure Podcast](https://azpodcast.azurewebsites.net/)
+
+### **outside the bubble** - not only Azure, not only pure technology
+
+- [Hanselminutes Podcast](https://hanselminutes.com/)
+- [.NET Rocks](https://www.dotnetrocks.com/)
+- [Software Engineering Podcast](https://www.se-radio.net/)
+- [The Rabbit Hole: The Definitive Developer's Podcast](https://therabbithole.libsyn.com/)
+- [Security This Week Podcast](https://securitythisweek.com/)
+- [Sudo Show Podcast](https://sudo.show/)
+
+## How do I reflect on my work or how would I like to shape my work?
+
+- [The talks of Gregor Hohpe resonate very well with me and how I see my role when taking on the **Enterprise Architect** hat](https://www.youtube.com/playlist?list=PLsuboX68NN3DL-sYP16NRyaLFRvSexa_s)
+- also Scott Hanselman's point of view on [personal productivity - 2020](https://youtu.be/RpH6IPhyh7I) and [- 2012](https://youtu.be/RpH6IPhyh7I) has elements I strive for
 
 ## 💤 Archive
 
