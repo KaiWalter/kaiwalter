@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get NeoVim plugins with build processes working on Windows](https://dev.to/kaiwalter/get-neovim-plugins-with-build-processes-working-on-windows-i39)
 - [Azure VM based on CBL-Mariner with Nix package manager](https://dev.to/kaiwalter/azure-vm-based-on-cbl-mariner-with-nix-package-manager-243f)
 - [Share NeoVim configuration between Linux and Windows](https://dev.to/kaiwalter/share-neovim-configuration-between-linux-and-windows-4gh8)
 - [Private linking an Azure Container App Environment &lpar;May&#39;23 update&rpar;](https://dev.to/kaiwalter/private-linking-an-azure-container-app-environment-may23-update-47f8)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Running and Conserving Azure PowerShell in Azure Container Instances](https://dev.to/kaiwalter/running-and-conserving-azure-powershell-in-azure-container-instances-a1a)
 - [Manage SSH config entries with a PowerShell module](https://dev.to/kaiwalter/manage-ssh-config-entries-with-a-powershell-module-77b)
 - [Install Rust Toolchain management with cloud-init on an Linux Azure VM](https://dev.to/kaiwalter/install-rust-toolchain-management-with-cloud-init-on-an-linux-azure-vm-2o51)
-- [Private linking resources from inside an Azure VM to multiple regional networks](https://dev.to/kaiwalter/private-linking-from-inside-an-azure-vm-to-multiple-regional-networks-4gdh)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
