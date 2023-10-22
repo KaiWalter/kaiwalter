@@ -8,7 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Azure Functions vs Dapr on Azure Container Apps](https://dev.to/kaiwalter/comparing-azure-functions-vs-dapr-on-azure-container-apps-2noh)
+- [Comparing throughput of Azure Functions vs Dapr on Azure Container Apps](https://dev.to/kaiwalter/comparing-azure-functions-vs-dapr-on-azure-container-apps-2noh)
 - [Get NeoVim plugins with build processes working on Windows](https://dev.to/kaiwalter/get-neovim-plugins-with-build-processes-working-on-windows-i39)
 - [Azure VM based on CBL-Mariner with Nix package manager](https://dev.to/kaiwalter/azure-vm-based-on-cbl-mariner-with-nix-package-manager-243f)
 - [Share NeoVim configuration between Linux and Windows](https://dev.to/kaiwalter/share-neovim-configuration-between-linux-and-windows-4gh8)
