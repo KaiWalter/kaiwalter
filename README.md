@@ -45,8 +45,9 @@ I listen to or watch these shows or follow these posts to stay up-to-date in tec
 ### **outside the bubble** - not only Azure, not only pure technology
 
 - [Hanselminutes Podcast](https://hanselminutes.com/)
-- [.NET Rocks](https://www.dotnetrocks.com/)
 - [Software Engineering Podcast](https://www.se-radio.net/)
+- [.NET Rocks](https://www.dotnetrocks.com/)
+- [The Craft Podcast](https://open.spotify.com/show/7aQgsTnJ9pLPkCVnWl1OP3)
 - [The Rabbit Hole: The Definitive Developer's Podcast](https://therabbithole.libsyn.com/)
 - [Security This Week Podcast](https://securitythisweek.com/)
 - [Sudo Show Podcast](https://sudo.show/)
