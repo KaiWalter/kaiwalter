@@ -42,7 +42,7 @@ I listen to or watch these shows or follow these posts to stay up-to-date in tec
 - [Azure Friday on Microsoft Azure YouTube Channel](https://www.youtube.com/watch?v=XQTQz-MgEBA&list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
 - [The Azure Podcast](https://azpodcast.azurewebsites.net/)
 
-### **outside the bubble** - not only Azure, not only pure technology
+### :balance_scale: **outside the bubble** - not only Azure, not only pure technology
 
 - [Hanselminutes Podcast](https://hanselminutes.com/)
 - [Software Engineering Podcast](https://www.se-radio.net/)
@@ -52,12 +52,13 @@ I listen to or watch these shows or follow these posts to stay up-to-date in tec
 - [Security This Week Podcast](https://securitythisweek.com/)
 - [Sudo Show Podcast](https://sudo.show/)
 
-## How do I reflect on my work or how would I like to shape my work?
+## :exploding_head: How do I reflect on my work or how would I like to shape my work?
 
 - [The talks of Gregor Hohpe resonate very well with me and how I see my role when taking on the **Enterprise Architect** hat](https://www.youtube.com/playlist?list=PLsuboX68NN3DL-sYP16NRyaLFRvSexa_s)
+- [Susanne Kaiser : Adaptive Socio-Technical Systems with Architecture for Flow](https://youtu.be/aHx-HstjwdM)
 - also Scott Hanselman's point of view on [personal productivity - 2020](https://youtu.be/RpH6IPhyh7I) and [- 2012](https://youtu.be/RpH6IPhyh7I) has elements I strive for
 
-## 💤 Archive
+## :zzz: Archive
 
 - [Using Azure private links and private DNS zones with globally distributed resources <img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium">](https://ancientitguy.medium.com/using-azure-private-links-and-private-dns-zones-with-globally-distributed-resources-2c9e53b03250)
 - [Getting started with access lifecycle on Azure Resources with PowerShell <img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="dev.to">](https://dev.to/kaiwalter/getting-started-with-access-lifecycle-on-azure-resources-with-powershell-2988)
