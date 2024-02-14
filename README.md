@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to tune Dapr bulk publish/subscribe for maximum throughput](https://dev.to/kaiwalter/how-to-tune-dapr-bulk-publishsubscribe-for-maximum-throughput-40dd)
 - [Comparing throughput of Azure Functions vs Dapr on Azure Container Apps](https://dev.to/kaiwalter/comparing-azure-functions-vs-dapr-on-azure-container-apps-2noh)
 - [Get NeoVim plugins with build processes working on Windows](https://dev.to/kaiwalter/get-neovim-plugins-with-build-processes-working-on-windows-i39)
 - [Azure VM based on CBL-Mariner with Nix package manager](https://dev.to/kaiwalter/azure-vm-based-on-cbl-mariner-with-nix-package-manager-243f)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Automate VS Code extensions setup across profiles](https://dev.to/kaiwalter/automate-vs-code-extensions-setup-across-profiles-4bc2)
 - [Create a disposable Azure VM based on CBL-Mariner](https://dev.to/kaiwalter/create-a-disposable-azure-vm-based-on-cbl-mariner-2013)
 - [Running and Conserving Azure PowerShell in Azure Container Instances](https://dev.to/kaiwalter/running-and-conserving-azure-powershell-in-azure-container-instances-a1a)
-- [Manage SSH config entries with a PowerShell module](https://dev.to/kaiwalter/manage-ssh-config-entries-with-a-powershell-module-77b)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
