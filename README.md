@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Azure VM Ubuntu install without fancy tools](https://dev.to/kaiwalter/automating-azure-vm-ubuntu-install-without-fancy-tools-2idg)
 - [Taking Spin for a spin on AKS](https://dev.to/kaiwalter/taking-spin-for-a-spin-on-aks-2lf1)
 - [How to tune Dapr bulk publish/subscribe for maximum throughput](https://dev.to/kaiwalter/how-to-tune-dapr-bulk-publishsubscribe-for-maximum-throughput-40dd)
 - [Comparing throughput of Azure Functions vs Dapr on Azure Container Apps](https://dev.to/kaiwalter/comparing-azure-functions-vs-dapr-on-azure-container-apps-2noh)
@@ -17,7 +18,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Private linking an Azure Container App Environment &lpar;May&#39;23 update&rpar;](https://dev.to/kaiwalter/private-linking-an-azure-container-app-environment-may23-update-47f8)
 - [Private linking and port forwarding to non-Azure resources](https://dev.to/kaiwalter/private-linking-and-port-forwarding-to-non-azure-resources-5h0f)
 - [Automate VS Code extensions setup across profiles](https://dev.to/kaiwalter/automate-vs-code-extensions-setup-across-profiles-4bc2)
-- [Create a disposable Azure VM based on CBL-Mariner](https://dev.to/kaiwalter/create-a-disposable-azure-vm-based-on-cbl-mariner-2013)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
