@@ -24,7 +24,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 - [How ZEISS uses Wasm in Enterprise - livestream with Fermyon](https://youtu.be/BwaXNjzbIeI)
 - [KubeCon EU 2024 Keynote on Revolutionizing Cloud Native Architectures with WebAssembly](https://youtu.be/tu8a-GefJL8)
-- [Microsoft Ignite 2022 - ZEISS Digital Integration platform aka ESB - in German with English subtitles](https://youtu.be/jtCL1YjGicE) incl. [Ask the experts](https://youtu.be/I-34cKm2W_A)
+- [Microsoft Ignite 2022 - ZEISS Digital Integration platform aka ESB - in German](https://youtu.be/jtCL1YjGicE) incl. [Ask the experts](https://youtu.be/I-34cKm2W_A)
 - [Dapr Developer Day China September 2022 -  Why we used Dapr](https://www.bilibili.com/video/BV1LD4y1z7s6?spm_id_from=333.999.0.0)
 - [Microsoft Build May 2022 - Deploy modern containerized apps and cloud native databases at scale](https://youtu.be/uyJfKkjIJ4Y?t=1388)
 - [Dapr Adopters Panel Oct 2021](https://www.youtube.com/watch?v=Jyug0wnfsug)
