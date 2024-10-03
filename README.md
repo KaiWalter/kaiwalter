@@ -7,11 +7,11 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ## 📕 Latest Blog Posts
 
-### LinkedIn (Level 100-200)
+### LinkedIn
 - [WebAssembly on the Back End](https://www.linkedin.com/pulse/webassembly-back-end-kai-walter-3vrne/)
 - [Being an Individual Contributor in an enterprise's Information Technology division](https://www.linkedin.com/pulse/being-individual-contributor-enterprises-information-division-walter-t2sdf/)
 
-### dev.to (Level 300-400)
+### dev.to
 <!-- BLOG-POST-LIST:START -->
 - [Automating Azure VM Ubuntu install without fancy tools](https://dev.to/kaiwalter/automating-azure-vm-ubuntu-install-without-fancy-tools-2idg)
 - [Taking Spin for a spin on AKS](https://dev.to/kaiwalter/taking-spin-for-a-spin-on-aks-2lf1)
