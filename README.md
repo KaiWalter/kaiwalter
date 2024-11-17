@@ -1,4 +1,4 @@
-![One of the spots I take a deep breath and just ... exist](https://res.cloudinary.com/practicaldev/image/fetch/s--E3J7Qj_I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/r5etlmwo8yqfxk475uvi.JPG)
+![One of the spots I take a deep breath and just ... exist](https://github.com/KaiWalter/automate-posts/blob/main/images/lake-wash-2017-100x42.png)
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/kaiwalter/count.svg" />
 </p>
