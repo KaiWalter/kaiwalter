@@ -14,6 +14,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ### dev.to
 <!-- BLOG-POST-LIST:START -->
+- [Challenging n8n AI Agent with a personal productivity flow](https://dev.to/kaiwalter/challenging-n8n-ai-agent-with-a-personal-productivity-flow-2a17)
 - [Dipping into Dapr Agentic Workflows](https://dev.to/kaiwalter/dipping-into-dapr-agentic-workflows-fbi)
 - [Inject NixOS into an Azure VM with nixos-anywhere and Azure Container Intances](https://dev.to/kaiwalter/inject-nixos-into-an-azure-vm-with-nixos-anywhere-and-azure-container-intances-4322)
 - [Automating Azure VM Ubuntu install without fancy tools](https://dev.to/kaiwalter/automating-azure-vm-ubuntu-install-without-fancy-tools-2idg)
@@ -23,7 +24,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [Get NeoVim plugins with build processes working on Windows](https://dev.to/kaiwalter/get-neovim-plugins-with-build-processes-working-on-windows-i39)
 - [Azure VM based on CBL-Mariner with Nix package manager](https://dev.to/kaiwalter/azure-vm-based-on-cbl-mariner-with-nix-package-manager-243f)
 - [Share NeoVim configuration between Linux and Windows](https://dev.to/kaiwalter/share-neovim-configuration-between-linux-and-windows-4gh8)
-- [Private linking an Azure Container App Environment &lpar;May&#39;23 update&rpar;](https://dev.to/kaiwalter/private-linking-an-azure-container-app-environment-may23-update-47f8)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📹 On Stage
