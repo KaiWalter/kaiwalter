@@ -8,6 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ## 📕 Latest Blog Posts
 
 ### LinkedIn
+- [40 years at the computer](https://www.linkedin.com/pulse/40-years-computer-kai-walter-i2nhe)
 - [Me and the 486 - a tiny personal story on being bold](https://www.linkedin.com/pulse/me-486-kai-walter-eyyre/)
 - [WebAssembly on the Back End](https://www.linkedin.com/pulse/webassembly-back-end-kai-walter-3vrne/)
 - [Being an Individual Contributor in an enterprise's Information Technology division](https://www.linkedin.com/pulse/being-individual-contributor-enterprises-information-division-walter-t2sdf/)
